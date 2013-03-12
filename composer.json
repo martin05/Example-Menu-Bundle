@@ -1,0 +1,22 @@
+{
+    "name": "doctrine/doctrine-fixtures-bundle",
+    "type": "symfony-bundle",
+    "description": "Menu...",
+    "keywords": [],
+    "homepage": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcin Olszewski",
+            "email": "martin05@o2.pl"
+        },
+    ],
+    "require": {
+        "php": ">=5.3.2",
+    },
+    "autoload": {
+        "psr-0": { "Doctrine\\Bundle\\FixturesBundle": "" }
+    },
+    "target-dir": "Doctrine/Bundle/FixturesBundle",
+}
+
