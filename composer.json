@@ -9,7 +9,7 @@
         {
             "name": "Marcin Olszewski",
             "email": "martin05@o2.pl"
-        },
+        }
     ],
     "require": {
         "php": ">=5.3.2"
