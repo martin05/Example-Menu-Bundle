@@ -17,6 +17,6 @@
     "autoload": {
         "psr-0": { "Martin\\ExampleMenuBundle": "" }
     },
-    "target-dir": "Martin/ExampleMenuBundle",
+    "target-dir": "Martin/ExampleMenuBundle"
 }
 
