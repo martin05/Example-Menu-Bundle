@@ -1,0 +1,16 @@
+/*
+    Document   : style
+    Created on : Mar 11, 2013, 10:43:34 AM
+    Author     : MarcinOlszewski
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root {
+    display: block;
+
+}
+body {
+    background-color: #FFFFFF;
+}
+

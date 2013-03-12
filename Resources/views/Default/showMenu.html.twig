@@ -1,0 +1,8 @@
+{% extends '::base.html.twig' %}
+{% block body %}
+
+<h1>Opcja menu: {{ entity.title }} </h1>
+
+<div>{{ entity.contents | raw }} </div>
+
+{% endblock body %}
